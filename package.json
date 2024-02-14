@@ -14,10 +14,12 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@vueuse/core": "^10.7.2",
     "dompurify": "^3.0.8",
     "marked": "^11.2.0",
     "pinia": "^2.1.7",
     "vue": "^3.4.15",
+    "vue-inline-svg": "^2.1.3",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
